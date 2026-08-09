@@ -1,1 +1,47 @@
-NjtOR2EeVhwzKAwaEAoSFBJrXkFnb1kNeh9HEDcaNBRuSRRjQGJPelQBcld7RE9PEEM2Ai1cIwN3ERVtY0gTTmIGLSx1HXRneQ9DJ3wuIwAWLQ8/dFRxC0ZTFHJXellpEEE2BmBSZU1ABCcAKFc1TzkTQm1jSBNOYGFBEEdCU0JKKgBBcUVUHHRgF1R2TnFQbhBGNxYuHC9GAmZSdVBwVgNZY1twFVoBbRFOR2NKVhYwKBENEAoSBg9PTkNrRVkNeg5SAj8NNANuSRRwR2pJeklrBzFyRXZYdC14ORBpYgNhO05HY0gTTmIgAABbRlNCRiExAj9HQw1pXQ9Bb11pRntHGFhXellrRBhkAiEcLBlRFTAJFlspA3cRTFdzWAJDEwAxRB8DBXJvaDo6G1dbJ3hKF1QrQltQbFMUcDNtNRNJfR4xB0UQLHQqeD9xbh0DdxEVbWNIE05gYUEAS0BXFBllTBciCBwPdGAXVHZOcVBuF0EgFi4QJAoafENxXnVfHGt1TWkZcAFvUhwCIhxWCmJ7Q0UFCAcPEXJcUHJJcw14ShdUdkw0CDwaRitVYFl7SDJmQ2JIZU8SBTAbIFo1Um8LTkVhRDlOYGFDVBISU1VXLBgCPwAdcjkeFU52Xn16bFMUcld6WyoHTC8VIxwgC28DLE9zGXIDRxFOR2MVH2RgYUNUEH1/YHVoPVEHV1R3EiR2WQUkAENuSRQpfXpZa0QYZkE2ETUKElt1TzlcIkwsXwsJN0ofZGBhQ1QSEBBSVjcPFyIKFw9iShpFemRxUGxTFHJVOQsuBUwjB2BSZV4HWWBVcAhpGHUdZEdjSBNOYGMGDEJZQE8Bf05TZ29ZDXhKF1R0CjQGJRBRIVVgWWlUCHZTbz4IWmNMBjl4dH1yf34/RW9iE05gYUNUEFFRQkozDxcuASZMLEgNVGdZaUV0SgZiQWtVQUQYZkNiSGcOUxU8GyhNNUUSUxdFeUgRXnBxU1lkfQdlDhY6UgZIKh8XOxV+dk5xUDF5FHIKUAQ=
+{
+  "version": 2,
+  "schema": "license_v2",
+  "updated": 1786244611,
+  "licenses": [
+    {
+      "license_id": "LIC-A9VB-XAJZ-8V8T",
+      "machine_hash": "9008fa177557cb074017644eb8fd01dda99cb89483ce01c0d26cc630bf0e4882",
+      "type": "time",
+      "duration": 3600,
+      "issued_at": 1786244611,
+      "expires_at": 1786248211,
+      "status": "valid",
+      "signature": "KuJ\/u43roprawo3iNZd08HUjrW3KkiUHXUzZYZ0co5subuabg6dxcpE9SXS7WVgs9LE7etnEKtVrM7ikpsjm9kFHjMSRrd28FZ72k1R4XqeX7BFr2wvTmZcOILMHMAiF11BbS1FJego\/ZmCcF4xHP2pMro\/tTOZnPxaEoxYcja6ZKwEjxlguZP3Y1ApVM0uQGDY9+M\/DGKKKRxA8EupEyEZmZHh\/IkHgnis1aYT6YALArbm23ZLNKSCrthG2njRp4l0x2MLYJ5rxWRHGCSdCY4LXk3alDUnuvERkHmLaFhsVSamzsIdwvQSqRyeLdi69V86F+G5A9i2V36463lwmAQ=="
+    },
+    {
+      "license_id": "GNXG-FQZJ-D7KZ-NG8K",
+      "machine_hash": "0001-SAR0-37DL-TYP2",
+      "type": "permanent",
+      "duration": -1,
+      "issued_at": 1785938669,
+      "expires_at": 0,
+      "status": "legacy",
+      "signature": ""
+    },
+    {
+      "license_id": "D7LX-EXRE-UCDK-R8WM",
+      "machine_hash": "",
+      "type": "time",
+      "duration": 3600,
+      "issued_at": 1785927239,
+      "expires_at": 0,
+      "status": "legacy",
+      "signature": ""
+    },
+    {
+      "license_id": "MMVV-S2L2-ZJNA-SJQ3",
+      "machine_hash": "0000-VM5S-ST1M-S2OQ",
+      "type": "permanent",
+      "duration": -1,
+      "issued_at": 1785891998,
+      "expires_at": 0,
+      "status": "legacy",
+      "signature": ""
+    }
+  ]
+}
